@@ -1,7 +1,7 @@
 # spring.components
-Reusable web components that make up the Spring new tab page for Chrome
+Reusable web components that make up the Spring new tab page for Chrome.
 
-No framework dependencies or polyfills, so it only works in Google Chrome.
+No framework dependencies or polyfills, so for now, it only works in Google Chrome.
 
 <!--
 ```
