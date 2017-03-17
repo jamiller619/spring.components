@@ -1,0 +1,17 @@
+{
+  "name": "components.spring.clock",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Jeff Miller"
+  ],
+  "license": "GPL-3.0",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
