@@ -3,11 +3,11 @@ The clock component for Spring
 
 <!--
 ```
-<spring-clock>
+<custom-element-demo>
   <template>
     <link rel="import" href="spring-clock.html">
   </template>
-</spring-clock>
+</custom-element-demo>
 ```
 -->
 ```html
