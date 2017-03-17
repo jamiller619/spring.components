@@ -17,5 +17,6 @@ coming soon
 
 # usage
 ```html
+<link rel="import" href="spring-clock.html">
 <spring-clock></spring-clock>
 ```
