@@ -1,15 +1,21 @@
 # components.spring.clock
-The clock component for Spring
+A reusable web component of the Spring clock.
+
+No framework dependencies or polyfills, so it only works in Google Chrome.
 
 <!--
 ```
-<custom-element-demo>
+<spring-clock>
   <template>
     <link rel="import" href="spring-clock.html">
   </template>
-</custom-element-demo>
+</spring-clock>
 ```
 -->
+# install
+coming soon
+
+# usage
 ```html
 <spring-clock></spring-clock>
 ```
