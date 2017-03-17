@@ -37,7 +37,6 @@ gulp.task('build-css', function () {
 
 gulp.task('build-js', function() {
   return gulp.src('dev/assets/*.js')
-    //.pipe(uglify())
     .pipe(gulp.dest('dist/assets'));
 });
 
@@ -46,7 +45,7 @@ gulp.task('build-html', function() {
     .pipe(inlinesource({
       compress: false
     }))
-    .pipe(gulp.dest('dist'));
+    .pipe(gulp.dest('./'));
 });
 
 gulp.task('build', function(callback) {
